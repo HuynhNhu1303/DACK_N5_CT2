@@ -1,0 +1,325 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Cloners),Inward issue link (Cloners),Outward issue link (Cloners),Attachment,Custom field (Actual Result),Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Expected Result),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test Level),Custom field (Test Steps),Custom field (Testcase Result),Custom field (Total forms),Custom field ([CHART] Date of First Response),Status Category
+Verify Cart -Buy more products when in cart,N5-57,10264,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 1:15 PM,05/Jan/23 1:16 PM,05/Jan/23 1:18 PM,,,0,Cart,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,N5-55,,-Go back to the product section to choose more products,,,,,,,,,,N5-21,,,-Go back to the product section to choose more products,,,,,0|i001mf:,,,,,,,,,,System,-Click Buy more products,Pass,,,To Do
+ Verify - NewAccount -Password must be distinguished from upper and lower case,N5-56,10263,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 1:11 PM,05/Jan/23 1:15 PM,05/Jan/23 1:11 PM,,,0,NewAccount,,"Ten: Huynh Trong Phuc
+
+SDT: 0386699231
+
+Email: [Trongphuc@gmail.com|mailto:Trongphuc@gmail.com]
+
+Pass ABCDJJJJJJ",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,,,N5-53,,Show password not allowed capital letters,,,,,,,,,,N5-17,,,Password must be distinguished from upper and lower case,,,,,0|i001m7:,,N5 Sprint 3,,,,,,,,System,1. Create Account,Fail,,,To Do
+Verify Cart - Delete selected product in cart,N5-55,10262,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 1:07 PM,05/Jan/23 1:15 PM,05/Jan/23 1:18 PM,,,0,Cart,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-57,,N5-54,,"-Are you sure you want to delete?
+-Delete product successfully",,,,,,,,,,N5-21,,,-Delete product successfully,,,,,0|i001lz:,,,,,,,,,,System,"-Click on the cart section
+-Click Delete",Pass,,,To Do
+Verify Cart - Full display of selected product information,N5-54,10261,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 1:06 PM,05/Jan/23 1:10 PM,05/Jan/23 1:18 PM,,,0,Cart,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-55,,,,"Show full product information:
+Product's name: 
+Quantity : 
+Price : 
+Size : 
+Erase :",,,,,,,,,,N5-21,,,"Show full product information:
+Product's name: 
+Quantity : 
+Price : 
+Size : 
+Erase :",,,,,0|i001lr:,,N5 Sprint 3,,,,,,,,System,-Click on the cart section,Pass,,,To Do
+Verify - NewAccount - Buy an item as a customer – check out you can purchase without creating an account.,N5-53,10260,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 1:04 PM,05/Jan/23 1:11 PM,05/Jan/23 1:11 PM,,,0,NewAccount,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-56,,N5-52,,Please login before purchasing,,,,,,,,,,N5-17,,,,,,,,0|i001lj:,,N5 Sprint 3,,,,,,,,System,,Skip,,,To Do
+Verify - NewAccount - Change Password,N5-52,10259,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 1:00 PM,05/Jan/23 1:04 PM,05/Jan/23 1:04 PM,,,0,NewAccount,,"Mat khau cu: 123456
+
+Mat khau moi: 654321
+
+Nhap lai mat khau moi: 654321",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-53,,N5-50,,Successful,,,,,,,,,,N5-17,,,Change Password,,,,,0|i001lb:,,N5 Sprint 3,,,,,,,,System,"1. Click Change Password
+2. Submit",Pass,,,To Do
+Verify Search - Find products with prices from high to low,N5-51,10258,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 12:56 PM,05/Jan/23 12:56 PM,05/Jan/23 12:58 PM,,,0,Search,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,"Display products from high to low, but not counting the discount",,,,,,,,,,N5-20,,,Display products by price from high to low,,,,,0|i001l3:,,N5 Sprint 3,,,,,,,,System,"-Log in to your account
+-Click ""Sort By""
+-Choose descending price",Fail,,,To Do
+Verify - NewAccount - Change the account information,N5-50,10257,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:54 PM,05/Jan/23 1:00 PM,05/Jan/23 12:58 PM,,,0,NewAccount,,"Ten: Huynh Trong Phuc
+
+SDT : 0386699231
+
+Email: [Trongphuchuynh1432@gmail.com|mailto:Trongphuchuynh1432@gmail.com]
+
+Pass 123456",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-52,,N5-49,,Successful,,,,,,,,,,N5-17,,, Change the account information,,,,,0|i001kv:,,N5 Sprint 3,,,,,,,,System,"1. Click Change the account information
+2. Submit",Pass,,,To Do
+Verify - NewAccount - Registering duplicate accounts reported error,N5-49,10256,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:51 PM,05/Jan/23 12:54 PM,05/Jan/23 12:54 PM,,,0,NewAccount,,"Ten: Huynh Trong Phuc
+
+SDT : 0386699231
+
+Email: [Trongphuchuynh1432@gmail.com|mailto:Trongphuchuynh1432@gmail.com]
+
+Pass 123456",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-50,,,,Show duplicate account message,,,,,,,,,,N5-17,,,Registering duplicate accounts reported error,,,,,0|i001kn:,,N5 Sprint 3,,,,,,,,System,"1. Create Account 
+2. Submit 
+3. Create Account",Fail,,,To Do
+Verify Search - Find products by filter,N5-48,10255,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 12:38 PM,05/Jan/23 12:57 PM,05/Jan/23 1:18 PM,,,0,Search,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,Display products based on selected filter,,,,,,,,,,N5-20,,,Display products based on selected filter,,,,,0|i001kf:,,N5 Sprint 3,,,,,,,,System,"-Log in to your account
+-Click the check mark in the filter
+-Enter",Pass,,,To Do
+ Verify - NewAccount - Forgot password,N5-47,10254,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:33 PM,05/Jan/23 12:38 PM,05/Jan/23 12:37 PM,,,0,Forgotpassword,NewAccount,Email : Trongphuchuynh1432@gmail.com,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,,,N5-45,,Loading...............,,,,,,,,,,N5-17,,,Sign in with google account,,,,,0|i001k7:,,,,,,,,,,System,1. Click Forgot password,Fail,,,To Do
+Verify Search - The product you are looking for could not be found,N5-46,10253,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 12:30 PM,05/Jan/23 12:59 PM,05/Jan/23 1:18 PM,,,0,Search,,"Test Data:
+
+Search : Ao Giam Gia (or) Quan Giam Gia",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,Note there is no product you are looking for,,,,,,,,,,N5-21,,,Show products with the same or similar name,,,,,0|i001jz:,,N5 Sprint 3,,,,,,,,System,"-Log in to your account
+-Enter the product information you are looking for in the search field
+-Enter",Pass,,,To Do
+Verify - NewAccount - Sign in with google account,N5-45,10252,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:22 PM,05/Jan/23 12:37 PM,05/Jan/23 12:36 PM,,,0,login,NewAccount,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-47,,N5-44,,Logged in successfully,,,,,,,,,,N5-18,,,Sign in with google account,,,,,0|i001jr:,,,,,,,,,,System,1. Click Sign in with google account,Pass,,,To Do
+Verify - NewAccount - Login with facebook account,N5-44,10251,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:18 PM,05/Jan/23 12:36 PM,05/Jan/23 12:36 PM,,,0,login,NewAccount,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-45,,N5-43,,Logged in successfully,,,,,,,,,,N5-18,,, Log out of your account,,,,,0|i001jj:,,,,,,,,,,System,1. Click Login with facebook account,Pass,,,To Do
+Verify - NewAccount - Log out of your account,N5-43,10250,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:14 PM,05/Jan/23 12:36 PM,05/Jan/23 12:35 PM,,,0,logout,NewAccount,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-44,,N5-40,,Back to home page,,,,,,,,,,N5-18,,, Log out of your account,,,,,0|i001jb:,,N5 Sprint 3,,,,,,,,System,1. Logout,Pass,,,To Do
+Verify - NewAccount - Login failed with invalid user,N5-42,10249,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 12:10 PM,05/Jan/23 12:35 PM,05/Jan/23 12:35 PM,,,0,login,NewAccount,"Ho ten : Huynh Trong Phuc
+
+SDT : 0386699231
+
+Gmail : [Trongphuc@gmail.com|mailto:Trongphuc@gmail.com]
+
+Password: 123456",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,,,N5-40,,"Display message ""Username or Password entered incorrectly""",,,,,,,,,,N5-18,,, Login failed with invalid user,,,,,0|i001j3:,,N5 Sprint 3,,,,,,,,System,"
+1. Login account
+2. Submit",Pass,,,To Do
+Verify Search - Find products by common name,N5-41,10248,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 12:06 PM,05/Jan/23 1:00 PM,05/Jan/23 1:18 PM,,,0,Search,,"Test Data: 
+
+Search : Ao (or) Quan",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,Show products with the same or similar name,,,,,,,,,,N5-20,,,Show products with the same or similar name,,,,,0|i001iv:,,N5 Sprint 3,,,,,,,,System,"-Log in to your account
+-Enter the product information you are looking for in the search field
+-Enter",Pass,,,To Do
+Verify - NewAccount - Create an account and sign in before making a purchase – check that the items you buy are added and connected to the correct account,N5-40,10247,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 11:58 AM,05/Jan/23 12:35 PM,05/Jan/23 12:35 PM,,,0,login,NewAccount,"Ho ten : Huynh Trong Phuc
+
+SDT : 0386699231
+
+Gmail : [Trongphuc@gmail.com|mailto:Trongphuc@gmail.com]
+
+Password: 123456",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-42,N5-43,N5-39,,Successful login message,,,,,,,,,,N5-17,,,Create an account and sign in before making a purchase,,,,,0|i001in:,,N5 Sprint 3,,,,,,,,System,"1. Create Account
+2. Submit
+3. Login account
+4. Submit",Pass,,,To Do
+Verify - NewAccount - Create an account and sign in before making a purchase – check that the items you buy are added and connected to the correct account,N5-39,10246,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 11:57 AM,05/Jan/23 12:35 PM,05/Jan/23 12:35 PM,,,0,login,NewAccount,"Ho ten : Huynh Trong Phuc
+
+SDT : 0386699231
+
+Gmail : [Trongphuc@gmail.com|mailto:Trongphuc@gmail.com]
+
+Password: 123456
+
+
+
+Gmail : [Trongphuc@gmail.com|mailto:Trongphuc@gmail.com]
+
+Password: 123456",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-40,,,,Successful login message,,,,,,,,,,N5-17,,,Create an account and sign in before making a purchase,,,,,0|i001if:,,N5 Sprint 3,,,,,,,,System,"1. Create Account
+2. Submit
+3. Login account
+4. Submit",Pass,,,To Do
+IP - Verify Cart - Check your cart is there any products,N5-38,10245,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 11:45 AM,05/Jan/23 11:45 AM,05/Jan/23 1:18 PM,,,0,Cart,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,Show your selected product,,,,,,,,,,N5-21,,,Show your selected product,,,,,0|i001i7:,,N5 Sprint 2,,,,,,,,Integratiom,"-Add Product
+-Submit Cart",Pass,,,To Do
+"MN-Verify Menu- On the home page interface, when scrolling Menu items must display submenus",N5-37,10244,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 11:01 AM,05/Jan/23 11:04 AM,05/Jan/23 1:18 PM,,,0,,,"On the homepage interface, hover over the items on the Menu",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,"On the home page interface, when scrolling Menu items must display submenus",,,,,,,,,,N5-36,,,"On the home page interface, when scrolling Menu items must display submenus",,,,,0|i001hz:,,N5 Sprint 1,,,,,,,,Unit,"1) On the homepage interface, hover over the items on the Menu",Pass,,,To Do
+Menu,N5-36,10243,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:55 AM,05/Jan/23 11:04 AM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,Menu,To Do,,,purple,,,0|i001hr:,,,,,,,,,,,,,,,To Do
+"LO-Verify Logout- When you choose to log out, the account will log out of the website",N5-35,10242,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:53 AM,05/Jan/23 10:53 AM,05/Jan/23 1:18 PM,,,0,Logout,,Select sign out,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,Log out,,,,,,,,,,N5-19,,,"When you choose to log out, the account will log out of the website",,,,,0|i001hj:,,N5 Sprint 1,,,,,,,,System,1)Select sign out of your account in the upper right corner of the screen,Pass,,,To Do
+SP-Verify Shopping-Default shopping cart when not selecting products is 0,N5-34,10241,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:44 AM,05/Jan/23 10:44 AM,05/Jan/23 1:18 PM,,,0,shopping,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,05/Jan/23 10:44 AM;62995c51a0eafd0069e9a419;image-20230105-034401.png;https://ngothihuynhnhu1303.atlassian.net/secure/attachment/10007/image-20230105-034401.png,,,,,,,,,,,N5-21,,,Default shopping cart when not selecting products is 0,,,,,0|i001hb:,,N5 Sprint 1,,,,,,,,Unit,The shopping cart has no products,Pass,,,To Do
+IP- Verify Search - Note that there is no product the user is looking for,N5-33,10240,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 10:41 AM,05/Jan/23 10:45 AM,05/Jan/23 1:18 PM,,,0,Search,,"Test Data : 
+
+Search : Áo",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,N5-32,,There are 0 products searched,,,,,,,,,,N5-20,,,No products,,,,,0|i001h3:,,,,,,,,,,Integratiom,"-Enter product
+-Submit",Pass,,,To Do
+IP- Verify Search - Search products by name,N5-32,10239,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 10:37 AM,05/Jan/23 10:41 AM,05/Jan/23 1:18 PM,,,0,Search,,"Test Data : 
+
+Search : Áo",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-33,,,,Show all products on screen,,,,,,,,,,N5-20,,,Show all products on screen,,,,,0|i001gv:,,N5 Sprint 2,,,,,,,,Integratiom,"-Enter product
+-Submit",Pass,,,To Do
+IP - Verify Logout - Account logged out notification,N5-31,10238,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 10:32 AM,05/Jan/23 10:33 AM,05/Jan/23 1:18 PM,,,0,Logout,,,,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,Log out to the homepage,,,,,,,,,,N5-19,,,Signed out notification,,,,,0|i001gn:,,N5 Sprint 2,,,,,,,,Integratiom,Submit LogOut,Pass,,,To Do
+IP - Verify Update Account - Password change message failed,N5-30,10237,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 10:26 AM,05/Jan/23 10:28 AM,05/Jan/23 1:18 PM,,,0,ChangePassword,,"Test Data: 
+
+Old password : thephu123 
+
+New Password: thephu1999
+
+Password Verification : thephu1999",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,N5-29,,Old password entered incorrectly,,,,,,,,,,N5-22,,,update failed,,,,,0|i001gf:,,,,,,,,,,Integratiom,"-Enter complete and accurate information
+-Submit",Pass,,,To Do
+IP - Verify Update Account - Notice of successful password change,N5-29,10236,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 10:24 AM,05/Jan/23 10:26 AM,05/Jan/23 1:18 PM,,,0,ChangePassword,,"Test Data: 
+
+Old password : thephu123 
+
+New Password: thephu1999
+
+Password Verification : thephu1999",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-30,,,,Change account password successfully,,,,,,,,,,N5-22,,,Update successful,,,,,0|i001g7:,,N5 Sprint 2,,,,,,,,Integratiom,"-Enter complete and accurate information
+-Submit",Pass,,,To Do
+"LG-Verify Signin-If you fill in the information completely, a message will be displayed and login is successful",N5-28,10235,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:22 AM,05/Jan/23 10:28 AM,05/Jan/23 1:18 PM,,,0,signin,,"Test data: 
+
+Nhap email hoac ten dang nhap: nhu@gmail.com
+
+Mat khau: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,N5-15,,"If you fill in the information completely, a message will be displayed and login is successful",,,,,,,,,,N5-18,,,"If you fill in the information completely, a message will be displayed and login is successful",,,,,0|i001fz:,,N5 Sprint 1,,,,,,,,Unit,"1)Enter email & password
+2)Signin",Pass,,,To Do
+Verify - Increase the number of products in the cart – the price is updated exactly according to the product,N5-27,10234,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 10:20 AM,05/Jan/23 10:29 AM,05/Jan/23 10:25 AM,,,0,shopping,,"Test data:
+
+So luong: 3
+
+Mau ma:
+
+Size : XXL",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,,,N5-26,,Refersh and increase the number,,,,,,,,,,N5-21,,,Increase the number of products in the cart,,,,,0|i001fr:,,N5 Sprint 3,,,,,,,,System,"1. Click cart
+2. Click quantity
+3. Increasing the number",Pass,,,To Do
+"Verify - Remove all products in the cart – the balance of the cart returns to 0, and no more products are displayed in the cart.",N5-26,10233,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 10:15 AM,05/Jan/23 10:20 AM,05/Jan/23 10:15 AM,,,0,shopping,,"Test data:
+
+So luong: 3
+
+Mau ma:
+
+Size : XXL",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-27,,N5-24,,Do you want to delete the product? Click OK,,,,,,,,,,N5-21,,, Remove all products in the cart,,,,,0|i001fj:,,N5 Sprint 3,,,,,,,,System,"1. Click cart
+2. Select product
+3. Click Remove",Pass,,,To Do
+IP - Verify Update Account - Update customer information,N5-25,10232,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 10:12 AM,05/Jan/23 10:16 AM,05/Jan/23 1:18 PM,,,0,EditCustomer,,"Test Date: 
+
+Full Name: Cao The Phu
+
+Date of birth: 2013-01-24
+
+Phone: 0766863366
+
+Email: caothephu1999@gmail.com
+
+Tỉnh/Thành phố : Hồ Chí Minh
+
+Quận/Huyện: Quận 6
+
+Địa chỉ chi tiết: 12 Trịnh Đình Thảo",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,,,Update successful,,,,,,,,,,N5-22,,,Update successful,,,,,0|i001fb:,,N5 Sprint 2,,,,,,,,Integratiom,"-Enter complete information
+-Submit",Pass,,,To Do
+"Verify - Add different product categories – For each added product we will see the product name, image, corresponding price and total value of all products.",N5-24,10231,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 10:11 AM,05/Jan/23 10:15 AM,05/Jan/23 10:15 AM,,,0,shopping,,"Test data:
+
+So luong: 3
+
+Mau ma:
+
+Size : XXL",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-26,,N5-23,,Show has been added to cart,,,,,,,,,,N5-21,,,Add different product categories,,,,,0|i001f3:,,N5 Sprint 3,,,,,,,,System,"1. Select product
+2. Choose size - Model - Quantity
+3. Add to cart",Pass,,,To Do
+"Verify - Add products to cart – cart is properly updated with product name, image and price.",N5-23,10230,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,05/Jan/23 10:09 AM,05/Jan/23 10:11 AM,05/Jan/23 10:09 AM,,,0,shopping,,"Test data:
+
+So luong: 3
+
+Mau ma:
+
+Size : XXL",,Trọng Phúc Huỳnh,62996025d9eae9006f3692da,,,,,,,,,N5-24,,,,Show has been added to cart,,,,,,,,,,N5-21,,,Add products to cart,,,,,0|i001ev:,,N5 Sprint 3,,,,,,,,System,"1. Select product
+2. Choose size - Model - Quantity
+3. Add to cart",Pass,,,To Do
+Update account,N5-22,10229,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:04 AM,05/Jan/23 10:26 AM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,Update account,To Do,,,purple,,,0|i001en:,,,,,,,,,,,,,,,To Do
+Shopping,N5-21,10228,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:04 AM,05/Jan/23 1:15 PM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,Shopping,To Do,,,purple,,,0|i001ef:,,,,,,,,,,,,,,,To Do
+Search,N5-20,10227,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:03 AM,05/Jan/23 12:56 PM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,Search,To Do,,,purple,,,0|i001e7:,,,,,,,,,,,,,,,To Do
+Logout,N5-19,10226,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:02 AM,05/Jan/23 10:53 AM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,Logout,To Do,,,purple,,,0|i001dz:,,,,,,,,,,,,,,,To Do
+Signin,N5-18,10225,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:02 AM,05/Jan/23 12:37 PM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,Signin,To Do,,,purple,,,0|i001dr:,,,,,,,,,,,,,,,To Do
+New Account,N5-17,10224,Epic,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 10:00 AM,05/Jan/23 1:11 PM,05/Jan/23 1:18 PM,,,0,,,,,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,,,,,,,,,,,,,,ghx-label-7,,New Account,To Do,,,purple,,,0|i001dj:,,,,,,,,,,,,,,,To Do
+IP-Verify Login - Login With Google+,N5-16,10223,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 9:44 AM,05/Jan/23 9:44 AM,05/Jan/23 1:18 PM,,,0,login,,"Test Data: 
+
+Email : caothephu1999@gmail.com",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,N5-13,,Logged in successfully,,,,,,,,,,,,,Logged in successfully,,,,,0|i001db:,,,,,,,,,,Integratiom,"-Enter complete information
+-Submit",Pass,,,To Do
+"LG-Verify Login-If the ""password"" field is entered incorrectly, an error message is displayed and the login process fails",N5-15,10222,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 9:42 AM,05/Jan/23 10:22 AM,05/Jan/23 9:58 AM,,,0,signin,,"Test data: 
+
+Nhap email hoac ten dang nhap: nhu@gmail.com
+
+Mat khau: 123456",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-28,,N5-14,,"""This field is required""",,,,,,,,,,N5-18,,,"The ""password"" field is entered incorrectly, an error message is displayed and the login process fails",,,,,0|i001d3:,,N5 Sprint 1,,,,,,,,Unit,"1)The ""password"" field is entered incorrectly
+2)Enter password
+3)login",Pass,,,To Do
+"LG-Verify Login-If the ""password"" field is left blank, an error message will be displayed asking for input",N5-14,10221,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 9:36 AM,05/Jan/23 10:18 AM,05/Jan/23 1:18 PM,,,0,signin,,"Test data: 
+
+Nhap email hoac ten dang nhap: nguyen van a
+
+Mat khau: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-15,,N5-11,,"""This field is required""",,,,,,,,,,N5-18,,,"the ""password"" field is left blank, an error message will be displayed asking for input",,,,,0|i001cv:,,N5 Sprint 1,,,,,,,,Unit,"1)The ""password"" field is blank
+2)Enter password
+3)login",Pass,,,To Do
+IP-Verify Signin - Login With Facebook,N5-13,10220,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 9:35 AM,05/Jan/23 10:15 AM,05/Jan/23 1:18 PM,,,0,login,,"Test Data: 
+
+Email : caothephu1999@gmail.com",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-16,,N5-12,,Logged in successfully,,,,,,,,,,,,,Logged in successfully,,,,,0|i001cn:,,,,,,,,,,Integratiom,"-Enter complete information
+-Submit",Pass,,,To Do
+IP-Verify Update account -Forgot password,N5-12,10219,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 9:32 AM,05/Jan/23 10:15 AM,05/Jan/23 1:18 PM,,,0,ChangePassword,,"Test Data: 
+
+Email : caothephu1999@gmail.com",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-13,,,,Loading......,,,,,,,,,,N5-22,,,Please reset password : ,,,,,0|i001cf:,,N5 Sprint 2,,,,,,,,Integratiom,"-Enter complete information
+-Submit",Fail,,,To Do
+"LG-Verify Login-If the ""email or username"" field is entered incorrectly, an error message is displayed and the login process fails",N5-11,10218,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 9:23 AM,05/Jan/23 10:17 AM,05/Jan/23 1:18 PM,,,0,signin,,"Test data: 
+
+Nhap email hoac ten dang nhap: nguyen van a
+
+Mat khau: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-14,,N5-10,,"""Username or password incorrect""",,,,,,,,,,N5-18,,,"The ""email or username"" field is entered incorrectly, an error message is displayed and the login process fails",,,,,0|i001c7:,,N5 Sprint 1,,,,,,,,Unit,"1)The ""email or username"" field is entered incorrectly
+2)Enter password
+3)login",Pass,,,To Do
+"SI-Verify Signin-Leaving the ""email or username"" field blank will give an error that requires input",N5-10,10217,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 9:15 AM,05/Jan/23 10:29 AM,05/Jan/23 1:18 PM,,,0,siginin,,"Test data:
+
+Nhap email hoac ten dang nhap:
+
+Mat khau: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-11,,,,"""This field is required""",,,,,,,,,,N5-18,,,Required to enter email or username,,,,,0|i001bz:,,N5 Sprint 1,,,,,,,,Unit,"1) leave field blank
+2)Enter password
+3)login",Pass,,,To Do
+IP-Verify Signin - Login failed message,N5-9,10216,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 8:59 AM,05/Jan/23 10:14 AM,05/Jan/23 1:18 PM,,,0,login,,"Test Data: 
+
+Email or FullName : [caothephu1999@gmail.com|mailto:caothephu1999@gmail.com]
+
+Password : thephu123",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,N5-8,,Username or password incorrect,,,,,,,,,,N5-18,,,Username or password incorrect,,,,,0|i001br:,,,,,,,,,,Integratiom,"-Enter complete information
+-Submit",Pass,,,To Do
+IP-Verify Signin - Successful login message,N5-8,10215,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 8:58 AM,05/Jan/23 10:14 AM,05/Jan/23 1:18 PM,,,0,login,,"Test Data: 
+
+Email or FullName : [caothephu1999@gmail.com|mailto:caothephu1999@gmail.com]
+
+Password : thephu123",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-9,,,,Logged in successfully,,,,,,,,,,N5-18,,,Logged in successfully,,,,,0|i001bj:,,N5 Sprint 2,,,,,,,,Integratiom,"-Enter complete information
+-Submit",Pass,,,To Do
+"NA-Verify New Account-Enter all information fields, registration is successful",N5-7,10214,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 8:54 AM,05/Jan/23 10:12 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test data:
+
+Ho ten: Ngo Thi Huynh Nhu
+
+So dien thoai: 0909701659
+
+Email: nhu@gmail.com
+
+Mat khau cua ban: nhu123123",,,,,,,,,,,,,,N5-6,,"""You have successfully registered""",,,,,,,,,,N5-17,,,"Enter all information fields, registration is successful",,,,,0|i001bb:,,,,,,,,,,Unit,"1)Enter the remaining entries
+2) Submit",Pass,,,To Do
+"NA-Verify New Account-If you leave your password blank in the registration field, the system will display an error",N5-6,10213,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 8:50 AM,05/Jan/23 10:11 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test data:
+
+Ho ten: Ngo Thi Huynh Nhu
+
+So dien thoai: 0909701659
+
+Email: nhu@gmail.com
+
+Mat khau cua ban: ",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-7,,N5-4,,"error ""This field is required""",,,,,,,,,,N5-17,,,error: Required to enter,,,,,0|i001b3:,,,,,,,,,,Unit,"1)Leave blank password
+2)Enter the remaining entries
+3) Submit",Pass,,,To Do
+IP-Verify New Account - Duplicate information notification,N5-5,10212,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 8:44 AM,05/Jan/23 10:04 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test Data: 
+
+Full name: Cao The Phu
+
+Number Phone: 0766863366
+
+Email: [caothephu1999@gmail.com|mailto:caothephu1999@gmail.com]
+
+Password: thephu123",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,,,N5-3,,Notice of successful registration,,,,,,,,,,N5-17,,,Registration failed message,,,,,0|i001av:,,,,,,,,,,Integratiom,"-Enter complete information
+-Submit ",Fail,,,To Do
+"NA-Verify New Account-If you leave your email blank in the registration field, the system will display an error",N5-4,10211,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 8:42 AM,05/Jan/23 10:10 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test data:
+
+Ho ten: Ngo Thi Huynh Nhu
+
+So dien thoai: 0909701659
+
+Email: 
+
+Mat khau cua ban: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-6,,N5-2,,"error ""This field is required""",,,,,,,,,,N5-17,,,error: Required to enter,,,,,0|i001an:,,,,,,,,,,Unit,"1)Leave blank email
+2)Enter the remaining entries
+3) Submit",Pass,,,To Do
+"IP-Verify New Account - When enter complete and correct information, the registration will be successful",N5-3,10210,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,The Phu Cao,6309ee80998cd0d8cb393572,The Phu Cao,6309ee80998cd0d8cb393572,05/Jan/23 8:38 AM,05/Jan/23 10:04 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test Data: 
+
+Full name: Cao The Phu
+
+Number Phone: 0766863366
+
+Email: [caothephu1999@gmail.com|mailto:caothephu1999@gmail.com]
+
+Password: thephu123",,The Phu Cao,6309ee80998cd0d8cb393572,,,,,,,,,N5-5,,,,Notice of successful registration,,,,,,,,,,N5-17,,,"When you enter complete and correct information, the registration will be successful",,,,,0|i001af:,,N5 Sprint 2,,,,,,,,Integratiom,"-Enter complete information
+-Submit ",Pass,,,To Do
+"NA-Verify New Account-If you leave your phone number blank in the registration field, the system will display an error",N5-2,10209,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 8:32 AM,05/Jan/23 10:09 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test data:
+
+Ho ten: Ngo Thi Huynh Nhu
+
+So dien thoai:
+
+Email: [nhu@gmail.com|mailto:nhu@gmail.com]
+
+Mat khau cua ban: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-4,,N5-1,,"error ""This field is required""",,,,,,,,,,N5-17,,,error: Required to enter,,,,,0|i001a7:,,,,,,,,,,Unit,"1)Leave blank number phone
+2)Enter the remaining entries
+3) Submit",Pass,,,To Do
+"NA-Verify New Account-If you leave your name blank in the registration field, the system will display an error",N5-1,10208,Story,To Do,N5,N5_CD21CT2,software,Huỳnh Như,62995c51a0eafd0069e9a419,,Medium,,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,Huỳnh Như,62995c51a0eafd0069e9a419,05/Jan/23 8:30 AM,05/Jan/23 10:07 AM,05/Jan/23 1:18 PM,,,0,NewAccount,,"Test data:
+
+Ho ten: 
+
+So dien thoai: 0997373726
+
+Email: [nhu@gmail.com|mailto:nhu@gmail.com]
+
+Mat khau cua ban: nhu123123",,Huỳnh Như,62995c51a0eafd0069e9a419,,,,,,,,,N5-2,,,,"error ""This field is required""",,,,,,,,,,N5-17,,,error: Required to enter,,,,,0|i0019z:,,N5 Sprint 1,,,,,,,,Unit,"1)Leave blank Full name
+2)Enter the remaining entries
+3) Submit
+
+",Pass,,,To Do
